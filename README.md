@@ -20,8 +20,6 @@
 
 - 🥇 CVE Contributor [CVE-2026-33531](https://nvd.nist.gov/vuln/detail/CVE-2026-33531)
 
----
-
 ## 📚 Content & Writing
 
 - ✍️ [Medium](https://medium.com/@alonakirav)
